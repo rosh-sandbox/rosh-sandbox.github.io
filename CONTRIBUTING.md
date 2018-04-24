@@ -1,0 +1,1 @@
+Sample guideline for contributors.
